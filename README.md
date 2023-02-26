@@ -35,6 +35,7 @@
 <br/>
 <br/>
 <br/>
+---
 
 - **Frontend**: JavaScript, TypeScript, React, HTML5, CSS3
 - **Backend**: Node.js, Express, Sessions/Tokens, JWT, CORS, WebSockets, hbs, PostgreSQL, Sequelize ORM
