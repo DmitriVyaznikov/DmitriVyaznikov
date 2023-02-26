@@ -1,4 +1,4 @@
-### Hello, everyone 👋! 
+### Hello, everyone! 👋 
 ### I'm Dmitrii Viaznikov — a spirited fullstack developer from Saint-Petersburg!
 
 - 👀 I'm interested in web-development, nature, hiking, popular science and football
