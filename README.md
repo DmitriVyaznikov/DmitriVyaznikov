@@ -13,6 +13,7 @@
 
 [<img align="left" alt="dmitrivyaznikov | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="dmitrivyaznikov | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="dmitrivyaznikov | LinkedIn" width="40px" src="https://img.icons8.com/2266EE/linkedin" />][linkedin]
 
 
 
@@ -70,7 +71,7 @@
 </table>
 
 
-[linkedin]: https://www.linkedin.com/in/juliaglukhova
+[linkedin]: https://www.linkedin.com/in/dmitrii-viaznikov/
 [telegram]: https://t.me/Dmitri_Vyaznikov 
 [instagram]: https://www.instagram.com/dmitriy.vyaznikov
 [git]: github.com/DmitriVyaznikov
