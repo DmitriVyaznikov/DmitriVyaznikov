@@ -34,7 +34,6 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="coding" height="30" src="https://img.shields.io/badge/Figma-53B5CA?style=for-the-badge&logo=figma&logoColor=355981">
 <img alt="coding" height="30" src="https://img.shields.io/badge/eslint-355981?style=for-the-badge&logo=eslint&logoColor=53B5CA">
-<img alt="coding" height="30" src="https://img.shields.io/badge/Jest-355981?style=for-the-badge&logo=Jest&logoColor=53B5CA">
 <img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-53B5CA?style=for-the-badge&logo=Sequelize&logoColor=355981">
 <img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-53B5CA?style=for-the-badge&logo=postgresql&logoColor=355981">
 <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-355981?style=for-the-badge&logo=json-web-tokens&logoColor=53B5CA">
