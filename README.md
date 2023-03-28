@@ -1,5 +1,5 @@
 ### Hello, everyone! 👋 
-### I'm Dmitrii Viaznikov — a spirited fullstack developer from Saint-Petersburg!
+### I'm Dmitrii Viaznikov — a spirited Frontend Developer from Saint-Petersburg!
 
 - 👀 I'm interested in web-development, nature, hiking, popular science and football
 - 💬 How to reach me: dmitri.vyaznikov@gmail.com
@@ -21,16 +21,24 @@
 ---
 ### My stack:
 
-[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
-[<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
-[<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
-[<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
-[<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
-[<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
-[<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
-[<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
+<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
+<img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
+<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+<img alt="coding" height="30" src="https://img.shields.io/badge/Figma-53B5CA?style=for-the-badge&logo=figma&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/eslint-355981?style=for-the-badge&logo=eslint&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Jest-355981?style=for-the-badge&logo=Jest&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-53B5CA?style=for-the-badge&logo=Sequelize&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-53B5CA?style=for-the-badge&logo=postgresql&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-355981?style=for-the-badge&logo=json-web-tokens&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
 
 <br/>
 <br/>
@@ -38,9 +46,9 @@
 <br/>
 <br/>
 
-- **Frontend**: JavaScript, TypeScript, React, HTML5, CSS3
+<!-- - **Frontend**: JavaScript, TypeScript, React, HTML5, CSS3
 - **Backend**: Node.js, Express, Sessions/Tokens, JWT, CORS, WebSockets, PostgreSQL, Sequelize ORM
-- **Testing**: Jest
+- **Testing**: Jest -->
 
 ---
 ### Codewars stats:
@@ -48,7 +56,18 @@
 
 ---
 ### GitHub stats:
-[![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriVyaznikov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/DmitriVyaznikov)
+<!-- [![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriVyaznikov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/DmitriVyaznikov) -->
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriVyaznikov&theme=algolia" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DmitriVyaznikov&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 
 [linkedin]: https://www.linkedin.com/in/juliaglukhova
