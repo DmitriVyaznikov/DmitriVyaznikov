@@ -2,6 +2,7 @@
 ### I'm Dmitrii Viaznikov — a spirited Frontend Developer from Saint-Petersburg!
 
 - 👀 I'm interested in web-development, nature, hiking, popular science and football
+- 👀 Now I'm studying advanced Typescript and Vue
 - 💬 How to reach me: dmitri.vyaznikov@gmail.com
 
 
