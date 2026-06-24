@@ -14,6 +14,4 @@
 <br/>
 
 
-[telegram]: https://t.me/Dmitri_Vyaznikov 
-
 
